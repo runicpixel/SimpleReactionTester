@@ -1,0 +1,5 @@
+C:\Users\hardi\OneDrive\Desktop\SIT232\week5\task5.3d\5.3d-resources\SimpleReactionMachineConsole\obj\Debug\net7.0\SimpleReactionMachine.csproj.AssemblyReference.cache
+C:\Users\hardi\OneDrive\Desktop\SIT232\week5\task5.3d\5.3d-resources\SimpleReactionMachineConsole\obj\Debug\net7.0\SimpleReactionMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardi\OneDrive\Desktop\SIT232\week5\task5.3d\5.3d-resources\SimpleReactionMachineConsole\obj\Debug\net7.0\SimpleReactionMachine.AssemblyInfoInputs.cache
+C:\Users\hardi\OneDrive\Desktop\SIT232\week5\task5.3d\5.3d-resources\SimpleReactionMachineConsole\obj\Debug\net7.0\SimpleReactionMachine.AssemblyInfo.cs
+C:\Users\hardi\OneDrive\Desktop\SIT232\week5\task5.3d\5.3d-resources\SimpleReactionMachineConsole\obj\Debug\net7.0\SimpleReactionMachine.csproj.CoreCompileInputs.cache
